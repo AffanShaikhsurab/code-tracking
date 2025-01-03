@@ -1,0 +1,1 @@
+chrome-extension://baecjmoceaobpnffgnlkloccenkoibbb/static/element-ui.js
